@@ -1,1 +1,1 @@
-add-windowsfeature web-server -includeallsubfeature
+add-windowsfeature web-server
